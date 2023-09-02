@@ -1,7 +1,6 @@
 # DateTime Microservice
 
 It is a simple microservice that takes a valid input date either in date or unix format and returns both formats, if it receives an empty parameter it returns an object.
-![Logo](./public/logo.jpg)
 ## Run Locally
 
 Clone the project
